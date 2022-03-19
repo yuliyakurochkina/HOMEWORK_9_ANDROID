@@ -1,0 +1,10 @@
+rootProject.name = "Android lessons"
+include ':app'
+include ':p0031firstproject'
+include ':p0041basicviews'
+include ':p0180constraintlayoutintro'
+include ':p0051layoutfiles'
+include ':P0061_Layouts'
+include ':P0072_LayoutProp'
+include ':P0081_ViewById'
+include ':examplejava'
